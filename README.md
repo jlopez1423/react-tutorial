@@ -45,4 +45,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 #Following the tutorial:
-[TraversyMedia:](https://youtu.be/A71aqufiNtQ?t=2411)
+[TraversyMedia:](https://youtu.be/A71aqufiNtQ?t=3049)
